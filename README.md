@@ -3,6 +3,7 @@
 ## Overview
 
 This repository documents the deployment and configuration of an HPC (High Performance Computing) cluster. It includes the physical network setup, Ruckus switch configuration, LACP (IEEE 802.3ad) implementation, network validation, and troubleshooting documentation.
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/00eefff0-d7fc-4775-8417-8f5bfe3f282d" />
 
 The goal is to provide a reproducible deployment guide and maintain a record of the cluster infrastructure.
 
