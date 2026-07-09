@@ -42,6 +42,7 @@ The goal is to provide a reproducible deployment guide and maintain a record of 
 
 <img width="1014" height="1022" alt="WhatsApp Image 2026-06-05 at 17 23 31" src="https://github.com/user-attachments/assets/e719d4fd-e1dd-4974-a285-a912c695d00c" />
 
+<img width="542" height="1024" alt="WhatsApp Image 2026-06-05 at 17 23 03" src="https://github.com/user-attachments/assets/c73dd904-b956-4a62-8100-8745a49f3013" />
 
 ## Repository Structure
 
